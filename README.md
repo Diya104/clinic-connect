@@ -83,3 +83,9 @@ To run the project locally, follow the steps below:
 
 - 📊 **Advanced Analytics Dashboard**  
   Provide doctors and admins with insightful analytics including appointment trends, patient history, revenue tracking, and real-time statistics.
+
+## Website:  
+- [Clinic Connect](https://clinic-connect-frontend.vercel.app/)
+- [Clinic Connect (Admin Panel)](https://clinic-connect-admin.vercel.app/)
+            
+            
